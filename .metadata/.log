@@ -71,3 +71,51 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-06-27 11:21:21.447
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:24:57.285
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:24:57.286
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1e7e42e6[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=555)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:24:57.304
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:24:57.598
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.232
+!MESSAGE Boot LS startup time from start to initialized: 7918ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.372
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.xmvIrEoiisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.376
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.379
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.380
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.380
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.380
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.xmvIrEoi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.384
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.385
+!MESSAGE buffering callback sts4.classpath.xmvIrEoi student false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.386
+!MESSAGE executing callback sts4.classpath.xmvIrEoi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-27 11:25:05.832
+!MESSAGE executing callback sts4.classpath.xmvIrEoi SUCCESS [done]
